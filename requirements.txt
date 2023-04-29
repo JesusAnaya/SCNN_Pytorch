@@ -1,8 +1,11 @@
 pillow
 numpy
+jax
 opencv-python
 torch
 torchvision
 tensorflow
 tqdm
 python-dotenv
+
+jupyterlab
